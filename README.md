@@ -22,18 +22,6 @@
 
 
 
-
-
-
-
-
-
-
-1
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Murali-Manohar-Dhassan&" alt="Murali-Manohar-Dhassan" /></p>
-
-2
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murali-Manohar-Dhassan&show_icons=true&locale=en&layout=compact" alt="Murali-Manohar-Dhassan" /></p>
-3
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Murali-Manohar-Dhassan&show_icons=true&locale=en" alt="Murali-Manohar-Dhassan" /></p>
