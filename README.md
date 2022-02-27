@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murali Manohar </h1>
+<h1 align="center">Hi 👋, I'm Murali </h1>
 <h3 align="center">A Data science Intern aspiring to become a Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murali-Manohar-Dhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Murali-Manohar-Dhassan" /> </p>
