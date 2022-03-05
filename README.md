@@ -6,24 +6,23 @@
 ## 📌 Projects
 
 <br>
-
-<a href="https://github.com/Murali-Manohar-Dhassan/Computational-Drug-Discovery/blob/main/SARS%20CoV%20Drug%20Discovery.ipynb">
+- <a href="https://github.com/Murali-Manohar-Dhassan/Computational-Drug-Discovery/blob/main/SARS%20CoV%20Drug%20Discovery.ipynb">
  Computational Drug Discovry
 </a>
 
 <br>
 
-<a href="https://github.com/Murali-Manohar-Dhassan/AQ-India">
+- <a href="https://github.com/Murali-Manohar-Dhassan/AQ-India">
   Air Pollution and Trends in India
 </a>
 
 <br>
 
-<a href="https://github.com/Murali-Manohar-Dhassan/Used-Cars-selling-price-prediction">
+- <a href="https://github.com/Murali-Manohar-Dhassan/Used-Cars-selling-price-prediction">
  Car Selling Price Prediction
 </a>
 <br>
-<a href="https://github.com/Murali-Manohar-Dhassan/Analysis-of-Suicides-in-India">
+- <a href="https://github.com/Murali-Manohar-Dhassan/Analysis-of-Suicides-in-India">
   Analysis of Suicides in India
 </a>
 <br>
