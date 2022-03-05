@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murali </h1>
 <h3 align="center">A Data science Intern aspiring to become a Data Scientist.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murali-Manohar-Dhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Murali-Manohar-Dhassan" /> </p>
 
 ## 📌 Projects
 
@@ -25,13 +26,12 @@
 <a href="https://github.com/Murali-Manohar-Dhassan/Analysis-of-Suicides-in-India">
   Analysis of Suicides in India
 </a>
-
-
 <br>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murali-Manohar-Dhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Murali-Manohar-Dhassan" /> </p>
+
+
 
 
 - 🌱 I’m currently learning **Machine Learning**
