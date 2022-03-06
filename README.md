@@ -25,10 +25,7 @@
 
 <br>
 
-- <a href="https://github.com/Murali-Manohar-Dhassan/Analysis-of-Suicides-in-India">
-  Analysis of Suicides in India
-</a>
-<br>
+
 
 
 
