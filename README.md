@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murali-Manohar-Dhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Murali-Manohar-Dhassan" /> </p>
 
-## 📌 Projects
+## 📌 Projects 📊
 
 <br>
 
@@ -26,6 +26,7 @@
 <br>
 
 
+  ## <a href="https://drive.google.com/file/d/1V51oi9IAbvaxC4ngXmk83fd68nEbffAC/view?usp=sharing"> 📌 Resume 📜</a>
 
 
 
