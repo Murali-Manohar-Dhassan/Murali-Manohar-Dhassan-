@@ -7,7 +7,7 @@
 
 <br>
 
-- <a href="https://github.com/Murali-Manohar-Dhassan/Computational-Drug-Discovery/blob/main/SARS%20CoV%20Drug%20Discovery.ipynb">
+- <a href="https://github.com/Murali-Manohar-Dhassan/Computational-Drug-Discovery">
   Computational Drug Discovry
 </a>
 
