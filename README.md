@@ -26,7 +26,7 @@
 <br>
 
 
-  ## <a href="https://drive.google.com/file/d/1V51oi9IAbvaxC4ngXmk83fd68nEbffAC/view?usp=sharing"> 📌 Resume 📜</a>
+  ## <a href="https://drive.google.com/file/d/1eoxlbColXlBaL14d9KEewU-CfbI2R4Oc/view?usp=sharing"> 📌 Resume 📜</a>
 
 
 
