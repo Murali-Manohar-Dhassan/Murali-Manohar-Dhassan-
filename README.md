@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Murali </h1>
-<h3 align="center">A Data science Intern aspiring to become a Data Scientist.</h3>
+<h3 align="center">Junior Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murali-Manohar-Dhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Murali-Manohar-Dhassan" /> </p>
 
