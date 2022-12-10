@@ -53,7 +53,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/murali-manohar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrish-ragavendar-s-853a221b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murali-manohar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muralimanohard" height="30" width="40" /></a>
 <a href="https://kaggle.com/muralimanohard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Murali Manohar" height="30" width="40" /></a>
 <a href="https://instagram.com/muralee.xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/muralee.xo" height="30" width="40" /></a>
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/53/SoloLearn_logo.svg" alt="https://www.sololearn.com/profile/3085198" height="30" width="40" /></a>
